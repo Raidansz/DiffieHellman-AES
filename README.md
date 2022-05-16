@@ -31,13 +31,17 @@ The AES Encryption algorithm (also known as the Rijndael algorithm) is a
 symmetric block cipher algorithm with a block/chunk size of 128 bits. It
 converts these individual blocks using keys of 128, 192, and 256 bits. Once it
 encrypts these blocks, it joins them together to form the ciphertext
+
 ![security-aes_design_mobile](https://user-images.githubusercontent.com/92235772/168669643-fc3c348d-67e5-48b2-9759-84eb56f707f8.jpeg)
 
 <img width="363" alt="Screenshot 2022-05-10 at PM 4 06 39" src="https://user-images.githubusercontent.com/92235772/168669773-5a0bccbd-d749-47d8-988c-2c5d0208e8f7.png">
 
 Firstly, two accounts are created for the users. Technically, we have a class for creating users
 calles USER. We basically call this class two times as we want to create to users.
+
 <img width="363" alt="Screenshot 2022-05-10 at PM 4 06 59" src="https://user-images.githubusercontent.com/92235772/168669861-8d8814dd-1e3d-4a75-92f3-6a747ad9845b.png">
+
+
 
 
 When we create an instance of this class, the constructor takes the users name and saves it
