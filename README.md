@@ -113,7 +113,7 @@ For AES, it is the typical algorithm. The only thing I add to it is
 The final keys are not consistent in bits and the size of them does not work for AES
 algorithm and that what happened to me. As AES works with { 128-bit, 192-bit, 256-
 bit} keys, I used that method that makes the key consistent in bits 32 byte * 8 = 256 bits.
-This has a salt array filed, it is a gab sequence.
+This has a salt array filed, it is made up of numbers added to the key before its hashing. it helps creating a unique key.
 
 <img width="575" alt="Screenshot 2022-05-10 at PM 4 58 33" src="https://user-images.githubusercontent.com/92235772/168670845-3bfdd3ca-58f8-4f8c-9413-34e7cfd9b475.png">
 
