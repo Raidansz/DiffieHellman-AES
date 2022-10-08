@@ -1,6 +1,10 @@
 
 # DiffieHellman-AES
 
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
+</p>
+
 
 If you find this helpful, leave a star and fork it. That is how the community can stay as good as it is. If there is any problem, you can contact me via email: raidanshugaa@gmail.com.
 Thanks!
