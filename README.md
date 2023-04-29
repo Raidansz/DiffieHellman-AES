@@ -6,8 +6,7 @@
 </p>
 
 
-If you find this helpful, leave a star and fork it. That is how the community can stay as good as it is. If there is any problem, you can contact me via email: raidanshugaa@gmail.com.
-Thanks!
+
 ---------------------------------------------------
 
 
